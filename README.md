@@ -1,4 +1,4 @@
-# face_mask_detection
+# Face_Mask_Detection
 The Face Mask detection (beta) of computer vision. It's very perfect to detect masks from the image &amp; in real-time. Sometimes it finds some critical for brightness  &amp; angle issues. Trying to solve that as soon as possible. 
 
 
