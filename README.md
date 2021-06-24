@@ -1,5 +1,6 @@
 # Face Mask Detection
-The Face Mask detection with YOLOV3 is a learning computer vision project. It's very perfect to detect masks from the image &amp; in real-time.
+
+## Screenshots
 
 ![mask_noMask](https://user-images.githubusercontent.com/18087611/102311738-95287400-3f97-11eb-898a-5006f7abb969.jpg)
 
