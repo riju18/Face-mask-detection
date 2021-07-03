@@ -1,9 +1,18 @@
 # Face Mask Detection
 
+## Things which have been done :
+- 100 Data trained with YOLOv3
+- testing with cpu
+- 90%+ accuracy most of the time
+
+## Things to do :
+- For real time build openCV with GPU
+
 ## Screenshots
 
-![mask_noMask](https://user-images.githubusercontent.com/18087611/102311738-95287400-3f97-11eb-898a-5006f7abb969.jpg)
+![non-mask](https://user-images.githubusercontent.com/18087611/124355540-7e93f280-dc33-11eb-9af5-ef0208b1c910.png)
+![mask](https://user-images.githubusercontent.com/18087611/124355550-818ee300-dc33-11eb-822a-a25b158a8bae.png)
+![mask-non-mask](https://user-images.githubusercontent.com/18087611/124355552-82277980-dc33-11eb-82aa-dd132f2092b1.png)
 
-![mask_noMask1](https://user-images.githubusercontent.com/18087611/102311884-db7dd300-3f97-11eb-87ef-f7ddb446bc35.jpg)
 
 
